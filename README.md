@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @efylo
-- 👀 I’m interested in looking for a job after graduating Yonsei univ.
-- 🌱 I’m currently studying on fundamentals of computer science, back-end engineering (java-spring).
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m good.
 - 📫 How to reach me efylo@naver.com
 
 <!---
